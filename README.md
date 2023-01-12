@@ -4,10 +4,11 @@ On stream the other day, we played around with code generation of an `enum` in S
 
 ## How to participate
 
-1. Fork this repo
+1. Fork this repo. The tests are currently failing.
 2. Modify the files in the `Codegen` folder
-3. Run `swift test` to check your solution
+3. Run `swift test` to check that your solution works
 4. Open a PR to this repo.
+5. The tests should pass on GitHub's Actions.
 
 I'll discuss the solutions on stream!
 
